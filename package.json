@@ -1,0 +1,23 @@
+{
+  "name": "projetoplaywrightjavascript",
+  "version": "1.0.0",
+  "description": " projeto playwright javascript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeissyguimaraes/projetoplaywrightjavascript.git"
+  },
+  "author": "Jeissy Guimarães",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeissyguimaraes/projetoplaywrightjavascript/issues"
+  },
+  "homepage": "https://github.com/jeissyguimaraes/projetoplaywrightjavascript#readme",
+  "dependencies": {
+    "@playwright/test": "^1.21.1",
+    "prettier": "^2.6.2"
+  }
+}
